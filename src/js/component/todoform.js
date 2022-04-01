@@ -1,4 +1,3 @@
-/* import propTypes from "prop-types"; */
 import React, { useState, useEffect, useRef } from "react";
 
 function TodoForm(props) {

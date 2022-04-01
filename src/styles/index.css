@@ -79,8 +79,11 @@ h1 {
         90deg, rgb(65, 85, 202) 0%,
         rgb(16, 26, 119) 100%
     );
-    border-radius: 6px;
+    border-radius: 0 4px 4px 0;
     padding: 16px 22px;
+    border: none;
+    cursor: pointer;
+    outline: none;
 }
 
 .todo-container {
